@@ -1,0 +1,28 @@
+body{
+  
+  font-family: 'Abel';
+}
+
+.myform{
+  border: 5px solid black;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+}
+
+p:first-letter {
+  font-family: 'indie flower',cursive;
+  font-size: 50px;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+}
+
+textarea{
+  border: 5px solid red;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
